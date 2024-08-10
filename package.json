@@ -1,0 +1,16 @@
+{
+  "name": "playwrightlearning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0"
+  },
+  "dependencies": {
+    "playwright": "^1.46.0"
+  }
+}
